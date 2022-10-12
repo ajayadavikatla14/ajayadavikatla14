@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayadavikatla14" alt="ajayadavikatla14" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://cute-pasca-b329f4.netlify.app](https://cute-pasca-b329f4.netlify.app)
+- 👨‍💻 All of my projects are available at [https://meek-marigold-e76365.netlify.app/](https://meek-marigold-e76365.netlify.app/)
 
 - 📫 How to reach me **ajayadavikatla14@gmail.com**
 
